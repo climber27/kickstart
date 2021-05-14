@@ -1,0 +1,4 @@
+# Mac iOS and IDE
+.vscode/
+.idea/
+.DS_Store

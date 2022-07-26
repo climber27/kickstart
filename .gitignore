@@ -1,7 +1,11 @@
 # Mac iOS and IDE
 .vscode/
 .idea/
+.ipynb_checkpoints/
 .DS_Store
 
 # Scratch work
 scratch.ipynb
+
+# Data
+*.csv

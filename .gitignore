@@ -2,7 +2,7 @@
 .vscode/
 .idea/
 .ipynb_checkpoints/
-.DS_Store
+*.DS_Store
 
 # Scratch work
 scratch.ipynb
